@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/University-Tor%20Vergata-blue" />
 </p>
 
-**MSc Thesis · Finance & Banking · University of Rome Tor Vergata · 2024**
+**Master Thesis · Finance & Banking · University of Rome Tor Vergata · 2026**
 
 ---
 
